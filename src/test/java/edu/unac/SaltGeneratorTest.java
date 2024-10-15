@@ -1,5 +1,5 @@
 package edu.unac;
-//andy Peñaloza 
+//andy Peñalo
 import edu.unac.exception.ConsecutiveCharacterException;
 import edu.unac.exception.DuplicateSaltException;
 import edu.unac.exception.InvalidLengthException;
